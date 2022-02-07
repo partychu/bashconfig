@@ -1,1 +1,1 @@
-Config files for vagrant
+#Default .bashrc file
